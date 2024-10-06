@@ -3,3 +3,23 @@
 .btn-custom {
     margin: 0 5px;
 }
+
+.back-icon{
+    width: 20px;
+    height: 20px;
+    margin: 6px;
+}
+
+
+body{
+    background-color: #2b1b19;
+    color: #FFFFFF;
+}
+
+table th, tbody{
+    color: #FFFFFF;
+}
+
+button{
+    border-radius: 12px !important;
+}
