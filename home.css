@@ -19,14 +19,21 @@
 .dropdown-menu {
     background-color: #2b1b19;
     color: #ffffff;
+    border-radius: 12px;
 }
 
 .dropdown-item {
     color: #ffffff !important;
 }
 
-.dropdown-item :hover {
-    background-color: red !important;
+.dropdown-hover{
+    background-color: #2b1b19;
+}
+
+.dropdown-hover:hover{
+    background-color: #413230;
+    border-radius: 12px;
+    padding-left: 20px;
 }
 
 #navItem1 {
